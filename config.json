@@ -1,0 +1,24 @@
+{
+  list: [
+    {
+      name: '小团',
+      grades: 89,
+      level: '良好'
+    },
+    {
+      name: '小天',
+      grades: 90,
+      level: '优秀'
+    },
+    {
+      name: '小贝',
+      grades: 56,
+      level: '不及格'
+    },
+    {
+      "name": "乐乐",
+      "grades": "99",
+      "level": "优秀"
+    }
+  ]
+}
